@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=gqccc&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%7C%20Code%20%7C%20Curiosity&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%7C%20Code%20%7C%20Curiosity&descAlignY=58&descSize=20" width="100%" />
 
 # 👋 Hi, I'm **gqccc**
 
