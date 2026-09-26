@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Hi%2C%20I'm%20gqccc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematics%20Student%20%7C%20C%20%26%20SQL%20%7C%20Basic%20Python&descAlignY=60&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0f172a%2C50%3A2563eb%2C100%3A7c3aed&height=220&section=header&text=Hi%2C%20I%27m%20gqccc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematics%20Student%20%7C%20C%20%26%20SQL%20%7C%20Basic%20Python&descAlignY=60&descSize=18" alt="gqccc profile header">
 
 <div align="center">
 
