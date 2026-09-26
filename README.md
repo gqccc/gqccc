@@ -37,44 +37,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Mathematics       ███████████████░░░░░  Building strong fundamentals
-C                 ██████████████░░░░░░  Practicing problem solving
-SQL / MySQL       ████████████░░░░░░░░  Exploring data and queries
-Python            █████████░░░░░░░░░░░  Growing step by step
-Computer Science  ████████░░░░░░░░░░░░  Connecting theory with practice
-```
-
----
-
-## 🚧 Projects
-
-I'm currently turning ideas into projects. Check back soon — something interesting is on the way! ✨
-
-<div align="center">
-
-| 🔭 Exploring | 🛠️ Building | 🎯 Goal |
-|:---:|:---:|:---:|
-| Algorithms & CS | Small practical projects | Keep shipping and learning |
-
-</div>
-
----
-
-## 📊 GitHub Journey
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gqccc&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqccc&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gqccc&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
 
 ## 🌌 A Little Motivation
 
