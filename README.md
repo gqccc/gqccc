@@ -33,9 +33,7 @@
 
 ## 🚧 Projects
 
-I do not have many public projects yet.
-
-I will share my learning notes, small exercises, and personal projects here as I continue learning.
+Uh-oh, there’s nothing here yet.
 
 ---
 
