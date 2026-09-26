@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Hi%2C%20I'm%20gqccc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18)
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Hi%2C%20I'm%20gqccc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mathematics%20Student%20%7C%20C%20%26%20SQL%20%7C%20Basic%20Python&descAlignY=60&descSize=18)
 
+<div align="center">
 
 <a href="https://github.com/gqccc">
   <img src="https://img.shields.io/badge/GitHub-gqccc-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -10,33 +10,28 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🔭 Currently working on interesting software projects
-- 🌱 Learning new technologies every day
-- 💡 Interested in open source and automation
-- 📫 Welcome to my GitHub profile
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-</div>
+🎓 Mathematics student  
+💻 Familiar with C and SQL  
+🐍 Have basic knowledge of Python  
+🌱 Interested in programming and computer science  
 
 ---
 
-## 📌 My Projects
+## 📚 Skills
 
-目前正在学习和开发一些有趣的项目。still learning~~
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+---
+
+## 🚧 Projects
+
+I do not have many public projects yet.
+
+I plan to share my learning notes, small exercises, and personal projects here in the future.
 
 ---
 
@@ -46,14 +41,14 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gqccc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gqccc&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🌱 Learning step by step
+
+Thanks for visiting my profile!
 
 </div>
