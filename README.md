@@ -42,6 +42,7 @@
 
 <div align="center">
 
+
 ### *Small steps. Deep thinking. Real progress.*
 
 ⭐ Thanks for visiting my profile — feel free to explore my repositories!
