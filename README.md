@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Hi%2C%20I'm%20gqccc&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18)
 <div align="center">
 
-# 👋 Hi, I'm gqccc
-
-### Developer · Open Source Enthusiast · Problem Solver
-
 <img src="https://komarev.com/ghpvc/?username=gqccc&style=flat-square&color=58a6ff" alt="Profile views">
 
 <br><br>
